@@ -26,8 +26,15 @@ A simple, responsive Netflix landing page clone built with pure HTML5 and CSS3. 
 Netflix-Clone/
 ├── index.html
 ├── style.css
-├── images/
-│ ├── logo.png
-│ ├── background.jpg
-│ └── thumbnails/
-└── README.md
+
+
+---
+
+## ⚙️ How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/netflix-clone.git
+
+# Open the folder and double-click index.html
+# OR open with Live Server in VS Code
