@@ -18,7 +18,7 @@ A simple, responsive Netflix landing page clone built with pure HTML5 and CSS3. 
 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
-- No JavaScript or frameworks — pure & lightweight!
+- No JavaScript or frameworks lightweight!
 
 ---
 
